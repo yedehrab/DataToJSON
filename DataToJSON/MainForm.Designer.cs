@@ -62,7 +62,7 @@
             this.gbImportance.Controls.Add(this.rbImportant);
             this.gbImportance.Controls.Add(this.rbExImportant);
             this.gbImportance.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.gbImportance.Location = new System.Drawing.Point(419, 161);
+            this.gbImportance.Location = new System.Drawing.Point(527, 161);
             this.gbImportance.Name = "gbImportance";
             this.gbImportance.Size = new System.Drawing.Size(155, 114);
             this.gbImportance.TabIndex = 6;
@@ -177,7 +177,7 @@
             // 
             // btnAdd
             // 
-            this.btnAdd.Location = new System.Drawing.Point(586, 161);
+            this.btnAdd.Location = new System.Drawing.Point(529, 288);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(150, 31);
             this.btnAdd.TabIndex = 7;
@@ -201,23 +201,34 @@
             this.clbOptinalGroups.FormattingEnabled = true;
             this.clbOptinalGroups.Items.AddRange(new object[] {
             "Aile",
-            "Bilim (Matematik / Fizik / ..)",
+            "App (Uygulama)",
             "Bilgilendirici",
+            "Bilim (Mat, Fizik, ...)",
             "Çocuk Gelişim",
             "Devlet / Siyaset",
+            "Diğer",
             "Din",
+            "Düşündürücü",
+            "Eğlence",
             "Güzel Ahlak",
+            "Hissettirme",
             "İcat / Buluş",
             "İlişkiler",
+            "İllüstrasyon",
             "Kariyer",
             "Kişisel Bakım",
             "Kişisel Gelişim",
-            "Sağlık",
-            "Diğer"});
+            "Kitap",
+            "Manzara",
+            "Motivasyon",
+            "Sağlık"});
             this.clbOptinalGroups.Location = new System.Drawing.Point(182, 161);
+            this.clbOptinalGroups.MultiColumn = true;
             this.clbOptinalGroups.Name = "clbOptinalGroups";
-            this.clbOptinalGroups.Size = new System.Drawing.Size(226, 242);
+            this.clbOptinalGroups.Size = new System.Drawing.Size(324, 293);
+            this.clbOptinalGroups.Sorted = true;
             this.clbOptinalGroups.TabIndex = 5;
+            this.clbOptinalGroups.SelectedIndexChanged += new System.EventHandler(this.clbOptinalGroups_SelectedIndexChanged);
             // 
             // tbUrl
             // 
@@ -313,7 +324,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(754, 410);
+            this.ClientSize = new System.Drawing.Size(759, 483);
             this.Controls.Add(this.gbImportance);
             this.Controls.Add(this.labelData);
             this.Controls.Add(this.labelDataName);

@@ -8,3 +8,13 @@ C:\Users\YEmre\Documents\Projects\VisualStudio\DataToJSON\DataToJSON\obj\Debug\D
 C:\Users\YEmre\Documents\Projects\VisualStudio\DataToJSON\DataToJSON\obj\Debug\DataToJSON.pdb
 C:\Users\YEmre\Documents\Projects\VisualStudio\DataToJSON\DataToJSON\obj\Debug\DataToJSON.csprojAssemblyReference.cache
 C:\Users\YEmre\Documents\Projects\VisualStudio\DataToJSON\DataToJSON\obj\Debug\DataToJSON.MainForm.resources
+C:\Users\YEmre\Documents\Projeler\Github\DataToJSON\DataToJSON\bin\Debug\DataToJSON.exe.config
+C:\Users\YEmre\Documents\Projeler\Github\DataToJSON\DataToJSON\bin\Debug\DataToJSON.exe
+C:\Users\YEmre\Documents\Projeler\Github\DataToJSON\DataToJSON\bin\Debug\DataToJSON.pdb
+C:\Users\YEmre\Documents\Projeler\Github\DataToJSON\DataToJSON\obj\Debug\DataToJSON.csprojAssemblyReference.cache
+C:\Users\YEmre\Documents\Projeler\Github\DataToJSON\DataToJSON\obj\Debug\DataToJSON.MainForm.resources
+C:\Users\YEmre\Documents\Projeler\Github\DataToJSON\DataToJSON\obj\Debug\DataToJSON.Properties.Resources.resources
+C:\Users\YEmre\Documents\Projeler\Github\DataToJSON\DataToJSON\obj\Debug\DataToJSON.csproj.GenerateResource.cache
+C:\Users\YEmre\Documents\Projeler\Github\DataToJSON\DataToJSON\obj\Debug\DataToJSON.csproj.CoreCompileInputs.cache
+C:\Users\YEmre\Documents\Projeler\Github\DataToJSON\DataToJSON\obj\Debug\DataToJSON.exe
+C:\Users\YEmre\Documents\Projeler\Github\DataToJSON\DataToJSON\obj\Debug\DataToJSON.pdb

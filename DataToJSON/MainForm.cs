@@ -138,5 +138,10 @@ namespace DataToJSON
             FormBorderStyle = FormBorderStyle.FixedDialog;
             MaximizeBox = false;
         }
+
+        private void clbOptinalGroups_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
